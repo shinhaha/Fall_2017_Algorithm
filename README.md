@@ -22,7 +22,7 @@
  
  11.AllSourceShortestPth
  
- 12.DynamicProgramming(LCS,RodCutting,ActivitySelection)
+ 12.DynamicProgramming(LCS,RodCutting,ActivitySelection,MatrixChain)
  
  13.OptmalBinarySearchTree
  
